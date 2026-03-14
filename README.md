@@ -8,3 +8,5 @@ This repository was created automatically to verify end-to-end GitHub autonomy:
 - push branch
 - open pull request
 - merge pull request
+
+Second commit to verify PR + merge flow.
